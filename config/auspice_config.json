@@ -1,0 +1,54 @@
+{
+  "title": "GNOME like evolution",
+  "annotations": {
+    "nuc": {
+      "end": 1900,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "color_options": {
+    "gt": {
+      "menuItem": "genotype",
+      "legendTitle": "Genotype",
+      "type": "discrete",
+      "key": "genotype"
+    },
+    "order": {
+      "key":"order",
+      "legendTitle":"Order",
+      "menuItem":"Order",
+      "type":"discrete"
+    },
+    "division": {
+      "key":"division",
+      "legendTitle":"division",
+      "menuItem":"division",
+      "type":"discrete"
+    },
+    "BFA": {
+      "key":"BFA",
+      "legendTitle":"BFA",
+      "menuItem":"BFA",
+      "type":"discrete"
+    },
+    "species": {
+      "key":"species",
+      "legendTitle":"species",
+      "menuItem":"species",
+      "type":"discrete"
+    }
+  },
+  "filters": [
+    "order",
+    "division"
+  ],
+  "maintainer": [
+    "Richard Neher",
+    "http://neherlab.org"
+  ],
+  "filters": [
+    "order",
+    "division"
+  ]
+}

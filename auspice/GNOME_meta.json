@@ -1,0 +1,58 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 1900,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "BFA": {
+      "key": "BFA",
+      "legendTitle": "BFA",
+      "menuItem": "BFA",
+      "type": "discrete"
+    },
+    "division": {
+      "key": "division",
+      "legendTitle": "division",
+      "menuItem": "division",
+      "type": "discrete"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "order": {
+      "key": "order",
+      "legendTitle": "Order",
+      "menuItem": "Order",
+      "type": "discrete"
+    },
+    "species": {
+      "key": "species",
+      "legendTitle": "species",
+      "menuItem": "species",
+      "type": "discrete"
+    }
+  },
+  "filters": [
+    "order",
+    "division"
+  ],
+  "geo": {},
+  "maintainer": [
+    "Richard Neher",
+    "http://neherlab.org"
+  ],
+  "panels": [
+    "tree",
+    "entropy"
+  ],
+  "title": "GNOME like evolution",
+  "updated": "27 Feb 2019",
+  "virus_count": 297
+}
